@@ -2,3 +2,5 @@ main.py
 test.py
 venv/
 sprite/
+.idea/
+__pycache__/
